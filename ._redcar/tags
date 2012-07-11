@@ -1,4 +1,4 @@
-1342016237
+1342018568
 Application	C:/Sites/railsinstallerdemo/config/application.rb	  class Application 
 ApplicationController	C:/Sites/railsinstallerdemo/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	C:/Sites/railsinstallerdemo/app/helpers/application_helper.rb	module ApplicationHelper
